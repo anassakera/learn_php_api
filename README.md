@@ -18,4 +18,17 @@
    
 9. `git push -u origin my-new-branch`: دفع التغييرات إلى المستودع الخارجي في الفرع الجديد.
 
-تستخدم هذه الأوامر لإعداد مشروع Git، تهيئة الإعدادات العالمية، إضافة مستودعات خارجية، إنشاء وإدارة الفروع، وتأكيد ودفع التغييرات.
+## إذا أردت تحديث ملفات المشروع إتبع الأوامر التالية :
+
+```git
+git add .
+git commit -m "2ed commit PHP API FOR FLUTTER"
+git push -u origin myNewBranch
+```
+## في حال واجهتك مشكلة قم بإنشاء فرع(branch) جديد :
+```git
+git checkout -b my-new-branch-name
+git add .
+git commit -m "New branch commit"
+git push -u origin my-new-branch-name
+```
