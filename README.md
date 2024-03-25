@@ -2,9 +2,9 @@
 
 1. `git init`: إنشاء مستودع Git جديد.
    
-2. `git config --global user.name 'ANASS CHAKLOUL'`: تعيين اسم المستخدم العالمي لـ Git.
+2. `git config --global user.name 'ANASS AKERA'`: تعيين اسم المستخدم العالمي لـ Git.
    
-3. `git config --global user.email 'anasschakloul@gmail.com'`: تعيين البريد الإلكتروني العالمي لـ Git.
+3. `git config --global user.email 'anassakera@gmail.com'`: تعيين البريد الإلكتروني العالمي لـ Git.
    
 4. `git config --global --add safe.directory 'D:/Flutter/5 - build API with PHP/learn_php_api'`: إضافة دليل آمن لـ Git.
    
